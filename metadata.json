@@ -1,0 +1,6 @@
+{
+  "name": "South Texas Diesel And Automotive Services LLC",
+  "description": "Professional diesel and automotive repair, engine diagnostics, brake repair, transmission, A/C, and fleet services in Corpus Christi, TX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
